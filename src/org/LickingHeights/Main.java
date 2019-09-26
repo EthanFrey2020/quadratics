@@ -18,6 +18,8 @@ public class Main {
             discriminant = (b*b)-4*(a*c);
 
         //TODO PRINT RESULTS
+            System.out.println("Axis of Symmetry: "+axisOfSymetery);
+            System.out.println("Discriminant: "+discriminant);
 
         //TODO CHECK ACCURACY
 
