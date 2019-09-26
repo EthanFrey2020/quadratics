@@ -5,9 +5,9 @@ public class Main {
     public static void main(String[] args) {
 
         //TODO DECLARE VARIABLES
-
-
-
+            double a,b,c,discriminant,axisOfSymetery,parabolaFacing,x,y;
+            String parabolaFacing;
+            
         //TODO INITIALIZE VARIABLES MANUALLY
 
         //TODO CALCULATIONS
