@@ -12,9 +12,10 @@ public class Main {
             a=5;
             b=3;
             c=1;
-            
 
         //TODO CALCULATIONS
+            axisOfSymetery = -b/(2*a);
+            discriminant = (b*b)-4*(a*c);
 
         //TODO PRINT RESULTS
 
